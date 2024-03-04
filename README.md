@@ -17,7 +17,7 @@ This program uses a library from Huggingface, namely Transformers, which this ti
 To using this repository, run the following commands
 
 ```bash
-git clone https://github.com/firzzairvn/voiceAssistant-OpenAI-IBMWatson.git
+https://github.com/firzzairvn/LLMs-Chatbox-webApp.git
 ```
 
 Installation requirements
